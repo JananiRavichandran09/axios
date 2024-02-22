@@ -11,7 +11,7 @@ const Navbar = () => {
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!"> <Link to='/' style={{textDecoration:"none", fontSize:"30px", color:"crimson",fontFamily:"Protest Riot" , marginLeft:"200px"}}> Home</Link></a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!"> <Link to='/products' style={{textDecoration:"none", fontSize:"30px", color:"crimson",fontFamily:"Protest Riot"}}>Products</Link></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!"> <Link to='/products' style={{textDecoration:"none", fontSize:"30px", color:"crimson",fontFamily:"Protest Riot", marginLeft:"240px"}}>Products</Link></a></li>
                 
               </ul>    
               <br />
